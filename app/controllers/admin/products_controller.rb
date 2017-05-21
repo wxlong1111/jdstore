@@ -39,6 +39,7 @@ class Admin::ProductsController < ApplicationController
 
 
 
+
   private
 
   def product_params
